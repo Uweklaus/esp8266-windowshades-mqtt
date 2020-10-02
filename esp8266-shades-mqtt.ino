@@ -22,7 +22,7 @@ byte SwitchPin [4] = {0,2,5,4}; // UP_Window 1, DOWN, UP_Window 2, DOWN D1,D2,D3
 byte RelayPin [4] = {12,13,14,16}; //UP_Window 1, DOWN, UP_Window 2, DOWN D6,D7,D5,D0
 long windowTime [4] = {18000,18000,18000,18000}; //Window 1Up, 2Up, 1Down, 2Down 
 
-#define IPMQTT "192.168.2.90"
+#define IPMQTT "192.168.2.90"  // YOUR NODE-RED SERVER IP
 #define AIO_SERVERPORT  1883
 #define AIO_KEY         ""
 /* 
