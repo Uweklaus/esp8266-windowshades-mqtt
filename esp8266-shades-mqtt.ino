@@ -4,7 +4,7 @@
  *  
  *  http and mqtt implemented
  */
-#define FIRMWARE "Firmware V 0.2.1"
+#define FIRMWARE "Firmware V 0.3.0"
 #include <ESP8266WiFi.h>
 #include <WiFiClient.h>
 #include "Adafruit_MQTT.h"
