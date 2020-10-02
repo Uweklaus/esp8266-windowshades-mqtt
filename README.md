@@ -86,6 +86,3 @@ V0.2.1
 - not reconnecting to WIFI after changing wifi channel.
 - not reconnecting to WIFI after power down in the house, because router takes too long to setup WLAN again.
 
-# License
-
-ISC
