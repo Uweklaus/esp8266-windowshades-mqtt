@@ -4,7 +4,7 @@ char* ssid="1234567890123456789012345678901234567890";
 char* password="A234567890123456789012345678901234567890";
 
 const char* ssidAP = "ESPap";
-const char* passwordAP = "Johann1965";
+const char* passwordAP = "YOURPASSWORD";
 
 
 // config load and save
