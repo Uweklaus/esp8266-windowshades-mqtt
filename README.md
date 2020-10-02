@@ -76,8 +76,12 @@ V0.2.0
 
 V0.2.1
 - switched off second wifi (AP) when connected to network
+
+V0.3.0
+- change HTTP page layout
+- introduce Node-RED MQTT
 ```
-- still working nearly perfect now for 3 years, except the todos. 4 units running for 6 shades.
+- still working nearly perfect now for 2 years, except the todos. 4 units running for 6 shades.
 ```
 
 # TODO
