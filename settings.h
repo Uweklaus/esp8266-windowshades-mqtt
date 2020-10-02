@@ -109,8 +109,8 @@ void saveConfig() {
 }
 
 void loadStandardValues(){
-  ssid = "klaushome";
-  password = "Johann1965";
+  ssid = "YOURSSID";
+  password = "YOURPASSWORD";
   SwitchPin[0] = 0;
   SwitchPin[1] = 2;
   SwitchPin[2] = 5;
